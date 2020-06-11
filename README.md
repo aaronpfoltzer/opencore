@@ -1,0 +1,2 @@
+# opencore
+Open Core Configuration
