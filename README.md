@@ -11,10 +11,9 @@ Steps taken.
 - Got stuck, but added npci=0x3000 to boot-args.
 - Verified config lock was unlocked.
 - Made custom SSDT-EC from Manual steps tutorial.
-- Attempted to get USBPorts working but no luck.
+- Made 2 ACPI patches in config.plist:
+  EUSB to EH01 (45555342 to 45483031 )
+  USBE to EH02 (55534245 to 45483032 ) 
 
 Current Status:
-- Can boot to existing MacOS 10.15.6 installation.
-- NO MOUSE OR KEYBOARD
-- Cannot login.
-- Cannot boot from thumb drive to installer because USB does not work after selecting the MacOS Installer from Open Core menu.
+-  Working
