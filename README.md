@@ -12,3 +12,9 @@ Steps taken.
 - Verified config lock was unlocked.
 - Made custom SSDT-EC from Manual steps tutorial.
 - Attempted to get USBPorts working but no luck.
+
+Current Status:
+- Can boot to existing MacOS 10.15.6 installation.
+- NO MOUSE OR KEYBOARD
+- Cannot login.
+- Cannot boot from thumb drive to installer because USB does not work after selecting the MacOS Installer from Open Core menu.
