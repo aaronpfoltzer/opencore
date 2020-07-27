@@ -8,6 +8,7 @@ Specs:
 
 Steps taken.
 - Followed guide letter by letter from Dortania for Ivy Bridge Desktop: https://dortania.github.io/OpenCore-Install-Guide/
+- Got stuck, but added npci=0x3000 to boot-args.
 - Verified config lock was unlocked.
 - Made custom SSDT-EC from Manual steps tutorial.
 - Attempted to get USBPorts working but no luck.
