@@ -23,3 +23,7 @@ Steps taken.
 Current Status:
 -  Working like a gem
 ![Success Screenshot](https://github.com/aaronpfoltzer/opencore/blob/master/Images/Success-Screenshot.png)
+
+
+NOT WORKING:
+Sleep doesn't work completely because the monitors never come back up when waking.  Still searching for a solution.
