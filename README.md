@@ -27,3 +27,5 @@ Current Status:
 
 NOT WORKING:
 Sleep doesn't work completely because the monitors never come back up when waking.  Still searching for a solution.
+
+For a more in-depth guide of this install please see my website: https://studio3b.rocks/opencore-working-on-an-x79-sandy-bridge-processor/
