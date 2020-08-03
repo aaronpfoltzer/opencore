@@ -1,5 +1,6 @@
 # opencore
-Open Core Configuration for a Sandy Bridge Processor
+Open Core 0.6.0 Hackintosh Confifguration 
+... for a Sandy Bridge Processor
 
 Specs: 
 - Processor: Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz
