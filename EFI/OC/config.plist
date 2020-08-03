@@ -802,17 +802,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K7213034NFHDDAD</string>
+			<string></string>
 			<key>ROM</key>
-			<data>MIWpmO2g</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacPro6,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KTRQY5F9VM</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>056E2EA8-AB1A-4C00-BF1C-63A22256A53D</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
